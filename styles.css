@@ -10,7 +10,7 @@
 
 /* Navbar Start */
 #navbar{
-    background: #f9f9f9;
+    background: #f9f9f9
 }
 #logo{
     font-size: 36px;
@@ -79,15 +79,15 @@
     animation: changetext 10s infinite linear;
 }
 @keyframes changetext{
-    0%{content: "Mnarani";}
+    0%{content: "Blue Economy";}
     10%{content: "Deep Ocean Dive";}
     20%{content: "wildlife";}
     30%{content: "Kilifi Beach";}
     40%{content: "GediRuins";}
     50%{content: "Hells Kitchen";}
     60%{content: "MidaCreek";}
-    70%{content: "Mijikenda Culture";}
-    80%{content: "vascodagama";}
+    70%{content: "Local Culture Promotion";}
+    80%{content: "vascodagama,Mnarani";}
     90%{content: "Kilifi Talent Craft";}
     100%{content: "Community Groups";}
 } 
